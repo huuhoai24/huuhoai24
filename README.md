@@ -5,7 +5,6 @@ My full name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nho
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Ruby-Hill&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruby-Hill&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby-Hill&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rubyhilll/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rubyhill/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/rubyhiu) 
