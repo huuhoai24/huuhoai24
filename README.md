@@ -2,7 +2,7 @@
 WELCOM TO MY PAGE 👋👋👋
 My full name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nhon, where I am pursuing a major in Artificial Intelligence. 
 
-# GitHub Stats :
+# 😒GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Ruby-Hill&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruby-Hill&theme=radical&hide_border=false)<br/>
 
