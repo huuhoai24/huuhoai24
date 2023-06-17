@@ -1,4 +1,5 @@
-**WELCOM TO MY PAGE** 👋👋👋                                                                                                                                            
+**WELCOM TO MY PAGE** 👋👋👋
+
 My full name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nhon, where I am pursuing a major in Artificial Intelligence. 
 
 # 😒GitHub Stats :
