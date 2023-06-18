@@ -1,10 +1,12 @@
-**WELCOM TO MY PAGE** 👋👋👋
+### WELCOME TO MY PAGE 👋👋👋
+My full name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nhon, where I am pursuing a major in Artificial Intelligence.
+## 📫 How to reach me: 
 
-My full name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nhon, where I am pursuing a major in Artificial Intelligence. 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 
-# GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Ruby-Hill&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![Ruby Hill's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruby-Hill&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruby-Hill&theme=radical&hide_border=false)<br/>
 
 ## 🌐Socials
