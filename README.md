@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruby-Hill&theme=radical&hide_border=false)<br/>
 
 ## 👀Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) Notion(https://www.facebook.com/rubyhilll/)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
 
 
 ### ✍️Random Dev Quote
