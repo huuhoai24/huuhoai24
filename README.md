@@ -2,8 +2,7 @@
 ▪️ My name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nhon, where I am pursuing a major in Artificial Intelligence.I have an unceasing passion for topics related to artificial intelligence, such as Deep Learning and Reinforcement Learning.
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill)   [![Facebook](https://github.com/Ruby-Hill/introduction/blob/main/Youtube.png) Youtube](https://www.facebook.com/rubyhilll/)
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill)   [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC9NajWbUR6bOAQ4WZLh6J8A)
 
 
 ![Hoai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruby-Hill&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
