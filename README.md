@@ -1,24 +1,19 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+### WELCOME TO MY PAGE 👋👋👋
+▪️ My name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nhon, where I am pursuing a major in Artificial Intelligence.I have an unceasing passion for topics related to artificial intelligence, such as Deep Learning and Reinforcement Learning.
+## 📫 How to reach me: 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill)   [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 
 
+![Hoai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruby-Hill&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ruby-Hill&theme=radical&hide_border=false)<br/>
 
+# 👀Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
-###
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Ruby-Hill&icon=0&color=0)](https://visitcount.itsvg.in)
