@@ -6,7 +6,7 @@ My full name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nho
 
 
 
-![Ruby Hill's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruby-Hill&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Hoai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruby-Hill&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruby-Hill&theme=radical&hide_border=false)<br/>
 
 # 💻Tech Stack
