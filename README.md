@@ -6,7 +6,7 @@ My full name is Nguyễn Hữu Hoài. I am a student from FPT University Quy Nho
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruby-Hill&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Ruby Hill's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruby-Hill&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
