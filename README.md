@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-▪️ 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑵𝒈𝒖𝒚𝒆̂̃𝒏 𝑯𝒖̛̃𝒖 𝑯𝒐𝒂̀𝒊. 𝑰 𝒂𝒎 𝒂 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒇𝒓𝒐𝒎 𝑭𝑷𝑻 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝑸𝒖𝒚 𝑵𝒉𝒐𝒏, 𝒘𝒉𝒆𝒓𝒆 𝑰 𝒂𝒎 𝒑𝒖𝒓𝒔𝒖𝒊𝒏𝒈 𝒂 𝒎𝒂𝒋𝒐𝒓 𝒊𝒏 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆.𝑰 𝒉𝒂𝒗𝒆 𝒂𝒏 𝒖𝒏𝒄𝒆𝒂𝒔𝒊𝒏𝒈 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒐𝒑𝒊𝒄𝒔 𝒓𝒆𝒍𝒂𝒕𝒆𝒅 𝒕𝒐 𝒂𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝒊𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆, 𝒔𝒖𝒄𝒉 𝒂𝒔 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝑹𝒆𝒊𝒏𝒇𝒐𝒓𝒄𝒆𝒎𝒆𝒏𝒕 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈.
+▪️ 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘕𝘨𝘶𝘺𝘦̂̃𝘯 𝘏𝘶̛̃𝘶 𝘏𝘰𝘢̀𝘪. 𝘐 𝘢𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘧𝘳𝘰𝘮 𝘍𝘗𝘛 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 𝘘𝘶𝘺 𝘕𝘩𝘰𝘯, 𝘸𝘩𝘦𝘳𝘦 𝘐 𝘢𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘢 𝘮𝘢𝘫𝘰𝘳 𝘪𝘯 𝘈𝘳𝘵𝘪𝘧𝘪𝘤𝘪𝘢𝘭 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦.𝘐 𝘩𝘢𝘷𝘦 𝘢𝘯 𝘶𝘯𝘤𝘦𝘢𝘴𝘪𝘯𝘨 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘵𝘰𝘱𝘪𝘤𝘴 𝘳𝘦𝘭𝘢𝘵𝘦𝘥 𝘵𝘰 𝘢𝘳𝘵𝘪𝘧𝘪𝘤𝘪𝘢𝘭 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦, 𝘴𝘶𝘤𝘩 𝘢𝘴 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘙𝘦𝘪𝘯𝘧𝘰𝘳𝘤𝘦𝘮𝘦𝘯𝘵 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill)   [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC9NajWbUR6bOAQ4WZLh6J8A)
