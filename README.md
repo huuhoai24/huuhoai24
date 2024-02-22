@@ -3,7 +3,7 @@ I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on 
 
 ## How to reach me: 
 ![Hoai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huuhoai24&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huuhoai24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 
 
