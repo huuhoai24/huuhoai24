@@ -3,7 +3,7 @@ I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on 
 
 ## How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill)   [![Facebook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.facebook.com/huuhoai24)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huuhoai24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/huuhoai24/) 
 
 
 ![Hoai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huuhoai24&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
