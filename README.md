@@ -1,5 +1,6 @@
 ## WELCOME TO MY PAGE 👋👋👋
- I'm Hoai, an AI Engineer. Here, you'll find some projects I've worked on or I'm currently involved in, along with a bit of information about myself.
+I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on or I'm currently involved in, along with a bit of information about myself.
+
 ## How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill)   [![Facebook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.facebook.com/huuhoai24)
