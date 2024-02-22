@@ -2,7 +2,7 @@
 I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on or I'm currently involved in, along with a bit of information about myself.
 
 <div id="header" align="center">
-  <video src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" autoplay loop muted></video>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
 <div align="center">
@@ -17,11 +17,10 @@ I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on 
   </a>  
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huuhoai24&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
 
-
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huuhoai24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 
 
