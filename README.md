@@ -1,4 +1,4 @@
-## WELCOME TO MY PAGE 👋👋👋
+## WELCOME TO MY PAGE 👋😊
 I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on or I'm currently involved in, along with a bit of information about myself.
 
 ## How to reach me: 
