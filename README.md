@@ -2,8 +2,9 @@
 I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on or I'm currently involved in, along with a bit of information about myself.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <video src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" autoplay loop muted></video>
 </div>
+
 
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/huuhoai24/" target="_blank">
