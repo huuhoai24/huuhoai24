@@ -1,5 +1,5 @@
 ## WELCOME TO MY PAGE 👋👋👋
- ### ☂ My name is Nguyen Huu Hoai. I am a student at FPT Quy Nhon University, I am majoring in Artificial Intelligence. I have an interest in topics related to artificial intelligence. Thank you for your visit and hope to cooperate!
+ I'm Hoai, an AI Engineer. Here, you'll find some projects I've worked on or I'm currently involved in, along with a bit of information about myself.
 ## How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rubyhill/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ruby-Hill)   [![Facebook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.facebook.com/huuhoai24)
