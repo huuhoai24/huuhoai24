@@ -22,10 +22,7 @@ I'm Hoai, currently studying AI. Here, you'll find some projects I've worked on 
 </div>
 
 
-<a href="https://github.com/huuhoai24/Library/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huuhoai24&repo=Library&theme=radical" />
-</a>    
+
 
 
 
